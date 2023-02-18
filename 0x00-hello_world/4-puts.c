@@ -1,9 +1,14 @@
 #include <stdio.h>
-/*Entry point of progam*/
+
+/**
+ * main - Entry point
+ *
+ * Return: always 0
+ */
 
 int main(void)
 {
-	puts ("\nProgramming is like building a multilingual puzzle");
+	puts("\nProgramming is like building a multilingual puzzle");
 		return(0);
 
 }
