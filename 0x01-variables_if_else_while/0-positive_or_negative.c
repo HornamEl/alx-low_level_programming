@@ -3,9 +3,10 @@
 #include <stdio.h>
 
 /**
- *  entry point
+ * Main - entry point
  *
- * Return 0 always
+ *
+ * Return: always return 0
  *
  */
 int main(void)
